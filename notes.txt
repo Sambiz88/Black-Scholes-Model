@@ -1,0 +1,13 @@
+Goal: Build a Black-Scholes Options trading model.
+
+Stage 1: 
+	
+    Return 5 main inputs to an option's price
+		Volatility, 
+		stock price, 
+		strike price, 
+		time to expiry, 
+		interest rate
+	
+	Then spits out call and put value
+	All values are entered by the user
