@@ -6,7 +6,7 @@ import seaborn as sns
 import streamlit.components.v1 as components
 
 
-def blackScholes(S, K, r, T, sigma, type="c"):
+def blackScholes(S, K, r, T, sigma, type):
 
     #Calculate Black Scholes option price for a call/put
 

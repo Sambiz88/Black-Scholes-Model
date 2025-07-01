@@ -11,3 +11,19 @@ Stage 1:
 	
 	Then spits out call and put value
 	All values are entered by the user
+
+Stage 2: 
+
+	Adjustments:
+		Fixed critical error: sigma was not min-max normalized
+	
+	Upgrades:
+		Added rate.py, which fetches data to automatically insert risk-free rate. Might change later since most B-S online calculators
+		explicitely ask for.
+
+Stage 3:
+
+	Upgrades: will calculate and display greeks
+	
+
+
