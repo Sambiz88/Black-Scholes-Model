@@ -27,3 +27,14 @@ Stage 3:
 	
 
 
+
+
+from blackscholes import blackscholes
+from math import log, sqrt, except
+
+def greeks(d1, d2, price_call, price_put):
+    
+    delta_call = norm.cdf(d1)
+    gamma = norm.pdf(d1)/(S*sigma*sqrt(T))
+    vega = S*(norm.cdf(d2))*sqrt(T)
+    theta_call = -((S**sigma*norm.pdf(d1)))/2*T - r*K*(norm.pdf(d2))*exp(-r*T)
