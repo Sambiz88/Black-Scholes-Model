@@ -23,7 +23,7 @@ Stage 2:
 
 Stage 3:
 
-	Upgrades: will calculate and display greeks
+	Upgrades: will calculate and display greeks for call and put
 	
 
 
