@@ -14,6 +14,10 @@ This project is an interactive web app for visualizing European option prices an
 
 ## Usage
 
+Use the link: [Black-Scholes-Visualisation-Tool](https://black-scholes-model-visualisation-tool-fd3huecc32cpkvosumvgwb.streamlit.app/)
+
+OR
+
 1. **Install dependencies**  
    Create a virtual environment (recommended) and install requirements:
    ```sh
