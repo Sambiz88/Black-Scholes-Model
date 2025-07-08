@@ -34,6 +34,12 @@ This project is an interactive web app for visualizing European option prices an
    - Adjust the heatmap resolution.
    - Hover over cells to see detailed info.
 
+## Screenshots
+
+(screenshot1.png)
+
+(screenshot2.png)
+
 ## Files
 
 - `main.py` / `ui3.py` — Main Streamlit app.
