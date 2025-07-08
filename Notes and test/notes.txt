@@ -24,6 +24,10 @@ Stage 2:
 Stage 3:
 
 	Upgrades: will calculate and display greeks for call and put
+
+Stage 4: 
+
+	Upgrades: Streamlit UI integration
 	
 
 

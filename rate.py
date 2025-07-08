@@ -9,4 +9,4 @@ def get_r(series='DGS3MO') :
     r = web.DataReader(series, 'fred', start)['DGS3MO'].dropna().iloc[-1]
 
     print(f"The current risk-free rate is {r} %")
-    return r/100
+    return r
